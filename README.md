@@ -28,5 +28,5 @@
     
 ### 데이터 
 ---
-- [Kaggle 데이터](https://www.kaggle.com/competitions/ga-customer-revenue-prediction/overview)
+- [(Kaggle 데이터)Google Analytics Customer Revenue Prediction](https://www.kaggle.com/competitions/ga-customer-revenue-prediction/overview)
 
