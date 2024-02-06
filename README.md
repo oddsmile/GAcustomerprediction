@@ -25,5 +25,6 @@
         - [참고 영상(토스)](https://www.youtube.com/watch?v=tcrr2QiXt9M&t=1s)
     - (Challenging) 국가별 DAU 평균을 Folium으로 시각화하기
     - (Challenging) 캠페인 효과 분석: 캠페인으로 들어온 사람은 다른 사람과 다른 특징을 가지고 있는지 분석해보기
+    
 데이터 : [Kaggle 데이터](https://www.kaggle.com/competitions/ga-customer-revenue-prediction/overview)
 
