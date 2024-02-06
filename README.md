@@ -1,4 +1,4 @@
-# GAcustomerprediction
+# GAcustomerprediction (스파르타코딩클럽_심화프로젝트)
 
 ### 개요
 ---
