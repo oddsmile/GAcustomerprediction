@@ -1,4 +1,4 @@
-# GAcustomerprediction (스파르타코딩클럽_심화프로젝트)
+# GAcustomerprediction 
 
 ### 개요
 ---
@@ -14,22 +14,18 @@
 ---
 - 사용자 로그 행동 데이터 활용 웹 서비스 분석
 
-### 설명
+### 기초 목표 설정
 ---
 - 파이썬을 이용해 주어진 데이터로부터 다음의 지표들을 구하고 시각화합니다.
     - DAU/WAU/MAU를 line chart로 시각화
     - 유저별 평균접속시간의 분포를 ECDF로 시각화
     - 방문 주차에 따른 코호트를 생성하고, 코호트 별로 weekly 리텐션을 구하고 이를 heatmap으로 시각화
     - 요일/시간대별 사용자 수를 구하고 이를 heatmap으로 시각화
-    - (Challenging) Carrying Capacity
-        - [참고 영상(토스)](https://www.youtube.com/watch?v=tcrr2QiXt9M&t=1s)
-    - (Challenging) 국가별 DAU 평균을 Folium으로 시각화하기
-    - (Challenging) 캠페인 효과 분석: 캠페인으로 들어온 사람은 다른 사람과 다른 특징을 가지고 있는지 분석해보기
+    - Carrying Capacity
+    - 국가별 DAU 평균을 Folium으로 시각화하기
+    - 캠페인 효과 분석: 캠페인으로 들어온 사람은 다른 사람과 다른 특징을 가지고 있는지 분석해보기
     
-### 데이터 
----
-- [(Kaggle 데이터)Google Analytics Customer Revenue Prediction](https://www.kaggle.com/competitions/ga-customer-revenue-prediction/overview)
-
+### 진행 상황 요약
 
 1.  처음 데이터를 받아서 아주 기본적인 전처리를 해보았음
     (json이 였던 데이터를 각각의 컬럼들로 펼치고, 데이터 형식을 바꾸는 작업 등)
